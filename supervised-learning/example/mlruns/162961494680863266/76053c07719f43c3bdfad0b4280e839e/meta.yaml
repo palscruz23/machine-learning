@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\61422\Desktop\OMSCS\projects\Back to Basics\machine-learning\supervised-learning\example\mlruns/162961494680863266/76053c07719f43c3bdfad0b4280e839e/artifacts
+end_time: 1756047245247
+entry_point_name: ''
+experiment_id: '162961494680863266'
+lifecycle_stage: active
+run_id: 76053c07719f43c3bdfad0b4280e839e
+run_name: beautiful-ape-728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756047209337
+status: 3
+tags: []
+user_id: '61422'

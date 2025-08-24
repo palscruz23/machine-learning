@@ -13,7 +13,7 @@ scikit-learn>=1.2
 torch>=2.0.0
 torchvision>=0.15.0
 torchaudio>=2.0.0
-torchsummary
+torchinfo
 
 # Utilities
 tqdm>=4.65
@@ -24,3 +24,6 @@ seaborn>=0.12
 jupyterlab>=4.0
 notebook>=7.0
 ipykernel>=6.25
+
+# MLflow
+mlflow>=2.20

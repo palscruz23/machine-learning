@@ -1,9 +1,0 @@
-Seq2SeqRUL(
-  (encoder1): LSTM(24, 128, batch_first=True)
-  (bn): BatchNorm1d(128, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
-  (dropout1): Dropout(p=0.2, inplace=False)
-  (encoder2): LSTM(128, 64, batch_first=True)
-  (dropout2): Dropout(p=0.2, inplace=False)
-  (relu): ReLU()
-  (fc): Linear(in_features=64, out_features=1, bias=True)
-)

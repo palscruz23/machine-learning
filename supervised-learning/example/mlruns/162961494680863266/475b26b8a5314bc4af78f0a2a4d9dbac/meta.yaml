@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\61422\Desktop\OMSCS\projects\Back to Basics\machine-learning\supervised-learning\example\mlruns/162961494680863266/475b26b8a5314bc4af78f0a2a4d9dbac/artifacts
+end_time: 1756047280210
+entry_point_name: ''
+experiment_id: '162961494680863266'
+lifecycle_stage: active
+run_id: 475b26b8a5314bc4af78f0a2a4d9dbac
+run_name: righteous-hog-748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756047245520
+status: 3
+tags: []
+user_id: '61422'

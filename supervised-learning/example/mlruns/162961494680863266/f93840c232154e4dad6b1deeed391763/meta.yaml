@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\61422\Desktop\OMSCS\projects\Back to Basics\machine-learning\supervised-learning\example\mlruns/162961494680863266/f93840c232154e4dad6b1deeed391763/artifacts
+end_time: 1756047208978
+entry_point_name: ''
+experiment_id: '162961494680863266'
+lifecycle_stage: active
+run_id: f93840c232154e4dad6b1deeed391763
+run_name: placid-ram-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756047179911
+status: 3
+tags: []
+user_id: '61422'
