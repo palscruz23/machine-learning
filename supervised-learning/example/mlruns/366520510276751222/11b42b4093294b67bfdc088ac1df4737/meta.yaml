@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/11b42b4093294b67bfdc088ac1df4737/artifacts
+end_time: 1756226828776
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: 11b42b4093294b67bfdc088ac1df4737
+run_name: useful-grouse-16
+run_uuid: 11b42b4093294b67bfdc088ac1df4737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756226806829
+status: 3
+tags: []
+user_id: sagemaker-user

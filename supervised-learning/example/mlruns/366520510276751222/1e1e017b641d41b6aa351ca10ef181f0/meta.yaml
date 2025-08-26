@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/1e1e017b641d41b6aa351ca10ef181f0/artifacts
+end_time: 1756226368239
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: 1e1e017b641d41b6aa351ca10ef181f0
+run_name: chill-zebra-911
+run_uuid: 1e1e017b641d41b6aa351ca10ef181f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756226330166
+status: 3
+tags: []
+user_id: sagemaker-user

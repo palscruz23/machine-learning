@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/c91d0d1ad40b4558be27c9f00aa5f318/artifacts
+end_time: 1756223343991
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: c91d0d1ad40b4558be27c9f00aa5f318
+run_name: angry-mink-521
+run_uuid: c91d0d1ad40b4558be27c9f00aa5f318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756223324682
+status: 3
+tags: []
+user_id: sagemaker-user

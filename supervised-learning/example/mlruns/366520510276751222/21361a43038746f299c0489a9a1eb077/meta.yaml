@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/21361a43038746f299c0489a9a1eb077/artifacts
+end_time: 1756222619221
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: 21361a43038746f299c0489a9a1eb077
+run_name: peaceful-snipe-379
+run_uuid: 21361a43038746f299c0489a9a1eb077
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222604982
+status: 3
+tags: []
+user_id: sagemaker-user

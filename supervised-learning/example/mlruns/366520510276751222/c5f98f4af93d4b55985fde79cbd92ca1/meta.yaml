@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/c5f98f4af93d4b55985fde79cbd92ca1/artifacts
+end_time: 1756222836770
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: c5f98f4af93d4b55985fde79cbd92ca1
+run_name: enthused-sponge-130
+run_uuid: c5f98f4af93d4b55985fde79cbd92ca1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222819578
+status: 3
+tags: []
+user_id: sagemaker-user

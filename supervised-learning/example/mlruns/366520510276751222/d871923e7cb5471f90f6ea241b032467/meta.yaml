@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/d871923e7cb5471f90f6ea241b032467/artifacts
+end_time: 1756224936589
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: d871923e7cb5471f90f6ea241b032467
+run_name: crawling-lamb-452
+run_uuid: d871923e7cb5471f90f6ea241b032467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756224905366
+status: 3
+tags: []
+user_id: sagemaker-user

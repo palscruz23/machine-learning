@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/d3ce8ffaf02545b087d2a19aecba17e6/artifacts
+end_time: 1756222154759
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: d3ce8ffaf02545b087d2a19aecba17e6
+run_name: casual-roo-586
+run_uuid: d3ce8ffaf02545b087d2a19aecba17e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756222125661
+status: 3
+tags: []
+user_id: sagemaker-user

@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/e01725a5598546a6bc44018e3af5d936/artifacts
+end_time: 1756227899098
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: e01725a5598546a6bc44018e3af5d936
+run_name: rare-shark-591
+run_uuid: e01725a5598546a6bc44018e3af5d936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756227876066
+status: 3
+tags: []
+user_id: sagemaker-user

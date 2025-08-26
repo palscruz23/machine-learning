@@ -1,0 +1,6 @@
+artifact_location: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222
+creation_time: 1756221743544
+experiment_id: '366520510276751222'
+last_update_time: 1756221743544
+lifecycle_stage: active
+name: predictive-rul-training

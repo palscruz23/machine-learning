@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/78a10b2708fb4d2792caa7c99bdaabd5/artifacts
+end_time: 1756227797330
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: 78a10b2708fb4d2792caa7c99bdaabd5
+run_name: masked-robin-271
+run_uuid: 78a10b2708fb4d2792caa7c99bdaabd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756227781211
+status: 3
+tags: []
+user_id: sagemaker-user

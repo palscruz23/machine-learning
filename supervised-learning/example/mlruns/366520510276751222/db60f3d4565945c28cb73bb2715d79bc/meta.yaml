@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/db60f3d4565945c28cb73bb2715d79bc/artifacts
+end_time: 1756225360223
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: db60f3d4565945c28cb73bb2715d79bc
+run_name: trusting-mare-674
+run_uuid: db60f3d4565945c28cb73bb2715d79bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756225333915
+status: 3
+tags: []
+user_id: sagemaker-user

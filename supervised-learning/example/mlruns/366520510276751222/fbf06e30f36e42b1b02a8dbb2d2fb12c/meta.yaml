@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/fbf06e30f36e42b1b02a8dbb2d2fb12c/artifacts
+end_time: 1756227208303
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: fbf06e30f36e42b1b02a8dbb2d2fb12c
+run_name: skittish-stork-977
+run_uuid: fbf06e30f36e42b1b02a8dbb2d2fb12c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756227186248
+status: 3
+tags: []
+user_id: sagemaker-user
