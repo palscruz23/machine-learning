@@ -60,7 +60,7 @@ Each algorithm is implemented with example datasets.
 
 ### Supervised Learning Example (on-ongoing)
 
-- Remaining Useful Life Prediction using supervised learning techniques.
+- Remaining Useful Life Prediction using supervised learning and deep learning techniques.
 - Dataset: https://data.nasa.gov/dataset/phm-2008-challenge
 
 ## 📜 License
