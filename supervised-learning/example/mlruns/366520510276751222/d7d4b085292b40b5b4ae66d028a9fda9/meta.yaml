@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/d7d4b085292b40b5b4ae66d028a9fda9/artifacts
+end_time: 1756313937537
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: d7d4b085292b40b5b4ae66d028a9fda9
+run_name: spiffy-mare-733
+run_uuid: d7d4b085292b40b5b4ae66d028a9fda9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756313916379
+status: 3
+tags: []
+user_id: sagemaker-user

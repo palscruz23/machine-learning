@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/3f3da1ee04384c8386dcb00ff3088d90/artifacts
+end_time: 1756314124068
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: 3f3da1ee04384c8386dcb00ff3088d90
+run_name: clumsy-shrimp-143
+run_uuid: 3f3da1ee04384c8386dcb00ff3088d90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756314103136
+status: 3
+tags: []
+user_id: sagemaker-user

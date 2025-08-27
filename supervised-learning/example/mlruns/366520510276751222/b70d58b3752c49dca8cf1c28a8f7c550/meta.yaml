@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/b70d58b3752c49dca8cf1c28a8f7c550/artifacts
+end_time: 1756318186107
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: b70d58b3752c49dca8cf1c28a8f7c550
+run_name: calm-midge-219
+run_uuid: b70d58b3752c49dca8cf1c28a8f7c550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756318151855
+status: 3
+tags: []
+user_id: sagemaker-user

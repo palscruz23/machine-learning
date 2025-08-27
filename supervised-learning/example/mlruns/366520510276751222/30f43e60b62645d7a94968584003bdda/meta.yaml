@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/30f43e60b62645d7a94968584003bdda/artifacts
+end_time: 1756313137587
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: 30f43e60b62645d7a94968584003bdda
+run_name: clumsy-boar-864
+run_uuid: 30f43e60b62645d7a94968584003bdda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756313083247
+status: 3
+tags: []
+user_id: sagemaker-user

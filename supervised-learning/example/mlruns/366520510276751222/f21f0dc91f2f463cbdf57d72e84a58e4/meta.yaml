@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/f21f0dc91f2f463cbdf57d72e84a58e4/artifacts
+end_time: 1756312808481
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: f21f0dc91f2f463cbdf57d72e84a58e4
+run_name: adventurous-fowl-133
+run_uuid: f21f0dc91f2f463cbdf57d72e84a58e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756312771960
+status: 3
+tags: []
+user_id: sagemaker-user

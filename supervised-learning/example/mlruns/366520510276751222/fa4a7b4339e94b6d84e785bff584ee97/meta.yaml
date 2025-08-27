@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/fa4a7b4339e94b6d84e785bff584ee97/artifacts
+end_time: 1756313998871
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: fa4a7b4339e94b6d84e785bff584ee97
+run_name: nosy-robin-39
+run_uuid: fa4a7b4339e94b6d84e785bff584ee97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756313968384
+status: 3
+tags: []
+user_id: sagemaker-user

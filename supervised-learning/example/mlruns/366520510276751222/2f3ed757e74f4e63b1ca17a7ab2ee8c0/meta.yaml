@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/2f3ed757e74f4e63b1ca17a7ab2ee8c0/artifacts
+end_time: 1756318544917
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: 2f3ed757e74f4e63b1ca17a7ab2ee8c0
+run_name: nervous-hog-335
+run_uuid: 2f3ed757e74f4e63b1ca17a7ab2ee8c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756318503005
+status: 3
+tags: []
+user_id: sagemaker-user

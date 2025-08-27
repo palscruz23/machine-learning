@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/eac46b8918df4fc580ee5bb9f1b46bda/artifacts
+end_time: 1756317227558
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: eac46b8918df4fc580ee5bb9f1b46bda
+run_name: silent-chimp-858
+run_uuid: eac46b8918df4fc580ee5bb9f1b46bda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756317194414
+status: 3
+tags: []
+user_id: sagemaker-user

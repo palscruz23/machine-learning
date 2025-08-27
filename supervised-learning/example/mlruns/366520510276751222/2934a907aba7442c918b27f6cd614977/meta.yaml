@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/2934a907aba7442c918b27f6cd614977/artifacts
+end_time: 1756318295597
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: 2934a907aba7442c918b27f6cd614977
+run_name: abundant-roo-656
+run_uuid: 2934a907aba7442c918b27f6cd614977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756318261295
+status: 3
+tags: []
+user_id: sagemaker-user

@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/2d972267fafa48feafbc0028e4457ba7/artifacts
+end_time: 1756317603360
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: 2d972267fafa48feafbc0028e4457ba7
+run_name: monumental-snail-239
+run_uuid: 2d972267fafa48feafbc0028e4457ba7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756317569334
+status: 3
+tags: []
+user_id: sagemaker-user

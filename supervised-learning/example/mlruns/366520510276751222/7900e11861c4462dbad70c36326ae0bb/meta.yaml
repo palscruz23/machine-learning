@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/7900e11861c4462dbad70c36326ae0bb/artifacts
+end_time: 1756317297083
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: 7900e11861c4462dbad70c36326ae0bb
+run_name: learned-gnu-916
+run_uuid: 7900e11861c4462dbad70c36326ae0bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756317266912
+status: 3
+tags: []
+user_id: sagemaker-user

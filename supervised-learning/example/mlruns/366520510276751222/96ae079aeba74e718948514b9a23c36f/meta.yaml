@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/96ae079aeba74e718948514b9a23c36f/artifacts
+end_time: 1756317549161
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: 96ae079aeba74e718948514b9a23c36f
+run_name: capable-ox-947
+run_uuid: 96ae079aeba74e718948514b9a23c36f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756317529238
+status: 3
+tags: []
+user_id: sagemaker-user

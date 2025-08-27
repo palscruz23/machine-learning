@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/69c39aea71ba4c19a072943d6ced8323/artifacts
+end_time: 1756314072317
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: 69c39aea71ba4c19a072943d6ced8323
+run_name: unruly-fowl-94
+run_uuid: 69c39aea71ba4c19a072943d6ced8323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756314041729
+status: 3
+tags: []
+user_id: sagemaker-user

@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/26719715fe054143b740be26ed2a5c9b/artifacts
+end_time: 1756319218328
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: 26719715fe054143b740be26ed2a5c9b
+run_name: popular-mole-680
+run_uuid: 26719715fe054143b740be26ed2a5c9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756319198189
+status: 3
+tags: []
+user_id: sagemaker-user

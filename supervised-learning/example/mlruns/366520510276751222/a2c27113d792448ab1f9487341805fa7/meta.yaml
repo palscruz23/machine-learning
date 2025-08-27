@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/a2c27113d792448ab1f9487341805fa7/artifacts
+end_time: 1756316304291
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: a2c27113d792448ab1f9487341805fa7
+run_name: skillful-jay-487
+run_uuid: a2c27113d792448ab1f9487341805fa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756316273047
+status: 3
+tags: []
+user_id: sagemaker-user

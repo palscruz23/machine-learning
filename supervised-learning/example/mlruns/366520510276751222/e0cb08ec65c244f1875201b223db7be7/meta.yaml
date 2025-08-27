@@ -1,0 +1,15 @@
+artifact_uri: file:////mnt/custom-file-systems/efs/fs-090d41204a06429fd_fsap-0c5c0de8e6b7e5fbc/rul/machine-learning/supervised-learning/example/mlruns/366520510276751222/e0cb08ec65c244f1875201b223db7be7/artifacts
+end_time: 1756318261123
+entry_point_name: ''
+experiment_id: '366520510276751222'
+lifecycle_stage: active
+run_id: e0cb08ec65c244f1875201b223db7be7
+run_name: gregarious-seal-346
+run_uuid: e0cb08ec65c244f1875201b223db7be7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756318241039
+status: 3
+tags: []
+user_id: sagemaker-user
